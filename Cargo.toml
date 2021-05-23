@@ -1,0 +1,10 @@
+[package]
+name = "algebraic-equation-solver-in-fp-2var"
+version = "0.1.0"
+authors = ["otohitofuse"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+num = "0.4.0"
